@@ -34,7 +34,7 @@ I used a **Client-Holdout split** (80/20) to ensure the model generalizes to new
 ## 6. Interpretation
 Feature importance shows **Average Position** and **CTR** as the strongest predictors. 
 
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](../outputs/feature_importance.png)
 
 A major surprise was that newer content is more volatile than older content, contradicting the myth that only "stale" content decays.
 
